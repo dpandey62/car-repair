@@ -31,24 +31,23 @@ Bootstrap 5
 JavaScript
 
 🚀 Live Demo
-👉 View Website
+https://dpandey62.github.io/car-repair/
 
 🖼️ Screenshot
 
+<img width="1900" height="946" alt="Screenshot 2025-07-18 213030" src="https://github.com/user-attachments/assets/d3758698-de08-4c8e-a879-52abfcdb3219" />
+
 # 📦 How to Use
-Clone the repository
+1 Clone the repository
 
-bash
-Copy
-Edit
 git clone https://github.com/dpandey62/car-repair.git
-Open the folder
 
-bash
-Copy
-Edit
+2 Open the folder
+
 cd car-repair
+
 Run locally
+
 Just open index.html in your browser
 
 # 🛠️ Customization
